@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #1b1b1b;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    
+}
+.navbar .menu a{
+    color: tomato;
+    text-decoration: none;
+}
+
+.about{
+    
+    text-align: center;
+    padding: 5px;
+}
+.about img{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.about p{
+    text-align: left;
+}
+
+.section{
+    padding: 5px;
+}
+.section h1{
+    text-align: center;
+    padding: 5px;
+}
